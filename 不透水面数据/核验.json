@@ -1,0 +1,186 @@
+{
+  "seed": 20261010,
+  "numpy_version": "2.5.3",
+  "generator": "PCG64",
+  "block_rows": 32,
+  "source_original_sha256": {
+    "201501.tif": "b30c21b1f3797febbfa2fa7d9c2f931dc5ec18c7a77152ab939cb61eef08f6dd",
+    "201502.tif": "7f472de39bddf6ad947d9952250fb171db3558422aff3179e7c7d76eb1f1b57d",
+    "201601.tif": "3811e9dec9ff4a3559fe06c18eecf02baf3fe9fb2db057f080d9e2d8a87c9d59",
+    "201602.tif": "c2f7123d5d928321e058af00dabc499f720400b6805fc2a088eb29f862f57114",
+    "201701.tif": "dd4c611ea5f96cb7cf628075b9e560fd2accc0467f2a2222379af80415942416",
+    "201702.tif": "0e490d596118b0d88f7122119040766997e6a5b924362356343d5cdf1717e85f",
+    "201801.tif": "4b67f3b285a8c2b6555442097f31a063265ab432fae8785aa4b46d4fc2d16cd1",
+    "201802.tif": "20061f8c237101d6c8475fb6aa1282262afca32016538ef81cb7fba885234daf",
+    "201901.tif": "0e875369e4927712363feae57b77fd593774690e676afa957bdec1dbd20d1fac",
+    "201902.tif": "80e47a5ddbe350a8bf78aee7d6b3a3116fd0e3a9f0c3e23d9d1da3609f4947a7",
+    "202001.tif": "730a8a7dd610b323bfd6328517ec57f4d9b9dd6431436267fd8086d21972fc3b",
+    "202002.tif": "442ad6491d2e4c90ba004006030c04e376cb0179393513018d1de5545521a711",
+    "202101.tif": "865f9fe981c437b3ffeae5787a3ad24c24ed25a8bda60f944db6883d5471ab6c",
+    "202102.tif": "d6977e06ac332817f507c0180b4699e0338ca42dc179e771917317aa05107af4",
+    "202201.tif": "22d20491a50d41ee473ed99020a2f35e694f4639d73389e0709dd8bb307cc098",
+    "202202.tif": "0ef858fea3bd6cf4fa7f6a7de569f1659233c9cf09ef1a7d49b9e752b8233fa7",
+    "202301.tif": "a3f364bd54425a64b44041aa16ce9c84891c265ef1250349256f876517191225",
+    "202302.tif": "e295af8770dfda00bb4244478c8202e6e742f9262fbe97b752e9b36943d4d272",
+    "202401.tif": "93163609f3970529e971eca6ec98e7e3119b92bd483028d035a96b721ea0f4a6",
+    "202402.tif": "9b94b2ca9ae40d7761e15ff9137e8a31cfe9d04e09db6945ab02d7827470991b",
+    "202501.tif": "ad54b2de11deb7886d2481fae6ac4fc295bfa8a1d0bc6be89548df422358966a",
+    "202502.tif": "8939a25bc778d6b69dbbf52eb7624eab7e10dbfb314097b6f1f1389b5e7678cf"
+  },
+  "files": [
+    {
+      "period": "201501",
+      "verified_pixels": 24257005,
+      "binary_verified": true,
+      "counts_match_previous_excel": true,
+      "classified_pixels": 2156688
+    },
+    {
+      "period": "201601",
+      "verified_pixels": 24257005,
+      "binary_verified": true,
+      "counts_match_previous_excel": true,
+      "classified_pixels": 2166848
+    },
+    {
+      "period": "201701",
+      "verified_pixels": 24257005,
+      "binary_verified": true,
+      "counts_match_previous_excel": true,
+      "classified_pixels": 2335130
+    },
+    {
+      "period": "201801",
+      "verified_pixels": 24257005,
+      "binary_verified": true,
+      "counts_match_previous_excel": true,
+      "classified_pixels": 2592212
+    },
+    {
+      "period": "201901",
+      "verified_pixels": 24257005,
+      "binary_verified": true,
+      "counts_match_previous_excel": true,
+      "classified_pixels": 2850187
+    },
+    {
+      "period": "202001",
+      "verified_pixels": 24257005,
+      "binary_verified": true,
+      "counts_match_previous_excel": true,
+      "classified_pixels": 2741350
+    },
+    {
+      "period": "202101",
+      "verified_pixels": 24257005,
+      "binary_verified": true,
+      "counts_match_previous_excel": true,
+      "classified_pixels": 2943668
+    },
+    {
+      "period": "202201",
+      "verified_pixels": 24257005,
+      "binary_verified": true,
+      "counts_match_previous_excel": true,
+      "classified_pixels": 2939337
+    },
+    {
+      "period": "202301",
+      "verified_pixels": 24257005,
+      "binary_verified": true,
+      "counts_match_previous_excel": true,
+      "classified_pixels": 3037270
+    },
+    {
+      "period": "202401",
+      "verified_pixels": 24257005,
+      "binary_verified": true,
+      "counts_match_previous_excel": true,
+      "classified_pixels": 3092794
+    },
+    {
+      "period": "202501",
+      "verified_pixels": 24257005,
+      "binary_verified": true,
+      "counts_match_previous_excel": true,
+      "classified_pixels": 3229468
+    },
+    {
+      "period": "201502",
+      "verified_pixels": 24257005,
+      "binary_verified": true,
+      "counts_match_previous_excel": true,
+      "classified_pixels": 2167358
+    },
+    {
+      "period": "201602",
+      "verified_pixels": 24257005,
+      "binary_verified": true,
+      "counts_match_previous_excel": true,
+      "classified_pixels": 2293961
+    },
+    {
+      "period": "201702",
+      "verified_pixels": 24257005,
+      "binary_verified": true,
+      "counts_match_previous_excel": true,
+      "classified_pixels": 2376634
+    },
+    {
+      "period": "201802",
+      "verified_pixels": 24257005,
+      "binary_verified": true,
+      "counts_match_previous_excel": true,
+      "classified_pixels": 2550054
+    },
+    {
+      "period": "201902",
+      "verified_pixels": 24257005,
+      "binary_verified": true,
+      "counts_match_previous_excel": true,
+      "classified_pixels": 2863401
+    },
+    {
+      "period": "202002",
+      "verified_pixels": 24257005,
+      "binary_verified": true,
+      "counts_match_previous_excel": true,
+      "classified_pixels": 2787528
+    },
+    {
+      "period": "202102",
+      "verified_pixels": 24257005,
+      "binary_verified": true,
+      "counts_match_previous_excel": true,
+      "classified_pixels": 3093972
+    },
+    {
+      "period": "202202",
+      "verified_pixels": 24257005,
+      "binary_verified": true,
+      "counts_match_previous_excel": true,
+      "classified_pixels": 3289131
+    },
+    {
+      "period": "202302",
+      "verified_pixels": 24257005,
+      "binary_verified": true,
+      "counts_match_previous_excel": true,
+      "classified_pixels": 3395732
+    },
+    {
+      "period": "202402",
+      "verified_pixels": 24257005,
+      "binary_verified": true,
+      "counts_match_previous_excel": true,
+      "classified_pixels": 3520079
+    },
+    {
+      "period": "202502",
+      "verified_pixels": 24257005,
+      "binary_verified": true,
+      "counts_match_previous_excel": true,
+      "classified_pixels": 3437745
+    }
+  ]
+}
