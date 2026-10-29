@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "expansion_density_centres",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "centre_id": 1, "row": 56, "col": 38, "x": 237300.0, "y": 3389520.0, "peak_density": 2073.7348404626155, "cumulative_events": 2904.0, "centre_share": 0.0039167448936651998 }, "geometry": { "type": "Point", "coordinates": [ 114.259849381932156, 30.60944465539901 ] } },
+{ "type": "Feature", "properties": { "centre_id": 2, "row": 55, "col": 49, "x": 253800.0, "y": 3391020.0, "peak_density": 1997.3212360906489, "cumulative_events": 3113.0, "centre_share": 0.0041986318367699003 }, "geometry": { "type": "Point", "coordinates": [ 114.431448624751255, 30.626477566555639 ] } },
+{ "type": "Feature", "properties": { "centre_id": 3, "row": 36, "col": 45, "x": 247800.0, "y": 3419520.0, "peak_density": 188.02302359042028, "cumulative_events": 453.0, "centre_share": 0.00061097983361920003 }, "geometry": { "type": "Point", "coordinates": [ 114.361907748513772, 30.882125343835611 ] } },
+{ "type": "Feature", "properties": { "centre_id": 4, "row": 40, "col": 73, "x": 289800.0, "y": 3413520.0, "peak_density": 144.48573640964378, "cumulative_events": 586.0, "centre_share": 0.00079036243377669996 }, "geometry": { "type": "Point", "coordinates": [ 114.802175498701928, 30.836234607759984 ] } }
+]
+}

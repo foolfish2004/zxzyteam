@@ -1,0 +1,14 @@
+{
+  "scales_m": [
+    990,
+    1500,
+    3000
+  ],
+  "event_years": [
+    2017,
+    2025
+  ],
+  "scale_level_results_file": "三尺度扩张指数尺度层面MK检验.csv",
+  "grid_level_results_file": "三尺度扩张指数逐格网MK检验.csv",
+  "fdr_alpha": 0.05
+}

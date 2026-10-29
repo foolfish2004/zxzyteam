@@ -1,0 +1,36 @@
+{
+  "scale_m": 990,
+  "event_year": 2025,
+  "grid_count": 8517,
+  "categories": {
+    "自然环境": [
+      "habitat_quality",
+      "ndvi_mean",
+      "precipitation_total",
+      "elevation"
+    ],
+    "设施服务": [
+      "school_kde",
+      "distance_to_railway",
+      "hospital_kde"
+    ],
+    "扩张惯性": [
+      "lag_nei"
+    ],
+    "社会经济": [
+      "nighttime_light"
+    ]
+  },
+  "category_method": "sum of absolute SHAP within each category, then normalized by grid total",
+  "clustering": "winsorize 1%-99%, StandardScaler, KMeans K=2..8, five seeds, n_init=20",
+  "selected_k": 3,
+  "silhouette": 0.3263774643505842,
+  "stability_ari": 0.9991949622046823,
+  "ward_ari": 0.3015736472103723,
+  "cluster_names": {
+    "类1": "自然主导型",
+    "类2": "服务—社会经济增强型",
+    "类3": "扩张惯性增强型"
+  },
+  "note": "Exploratory attribution partition; not a causal or policy classification."
+}

@@ -1,0 +1,5 @@
+{
+  "boundary_source": "D:\\科研\\项目\\师兄文献复现\\outputs\\武汉DEM制图工程_20261020\\Boundaries\\武汉市区县边界.shp",
+  "crs": "EPSG:32650",
+  "spatial_join": "grid centroid within district polygon"
+}

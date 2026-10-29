@@ -1,0 +1,67 @@
+{
+  "definition": "mean over grid-years in event year of abs(three-model-seed mean SHAP)",
+  "colour_metric": "mean_abs_shap_ratio",
+  "unit_conversion": "990/1500 m are fractions; 3000 m percentage points are divided by 100",
+  "notes": "Values are original SHAP magnitudes expressed as expansion-intensity fractions. They are model attribution magnitudes, not causal effects.",
+  "sources": [
+    {
+      "scale_m": 990,
+      "shap_source": "D:\\科研\\项目\\师兄文献复现\\analysis\\wuhan_990_fixed\\outputs\\shap\\extended_shap_seed_mean.csv",
+      "panel_source": "D:\\科研\\项目\\师兄文献复现\\analysis\\wuhan_990_fixed\\outputs\\panel\\wuhan_990_extended_panel.csv",
+      "grid_year_rows": 76653,
+      "annual_rows": {
+        "2017": 8517,
+        "2018": 8517,
+        "2019": 8517,
+        "2020": 8517,
+        "2021": 8517,
+        "2022": 8517,
+        "2023": 8517,
+        "2024": 8517,
+        "2025": 8517
+      },
+      "source_y_unit": "fraction",
+      "display_unit": "expansion_intensity_fraction"
+    },
+    {
+      "scale_m": 1500,
+      "shap_source": "D:\\科研\\项目\\师兄文献复现\\analysis\\wuhan_1500_fixed\\outputs\\shap\\extended_shap_seed_mean.csv",
+      "panel_source": "D:\\科研\\项目\\师兄文献复现\\analysis\\wuhan_1500_fixed\\outputs\\panel\\wuhan_1500_extended_panel.csv",
+      "grid_year_rows": 33669,
+      "annual_rows": {
+        "2017": 3741,
+        "2018": 3741,
+        "2019": 3741,
+        "2020": 3741,
+        "2021": 3741,
+        "2022": 3741,
+        "2023": 3741,
+        "2024": 3741,
+        "2025": 3741
+      },
+      "source_y_unit": "fraction",
+      "display_unit": "expansion_intensity_fraction"
+    },
+    {
+      "scale_m": 3000,
+      "shap_source": "D:\\科研\\项目\\师兄文献复现\\analysis\\wuhan_3000_fixed\\outputs\\shap\\extended_shap_seed_mean.csv",
+      "panel_source": "D:\\科研\\项目\\师兄文献复现\\analysis\\wuhan_3000_fixed\\outputs\\panel\\wuhan_3000_extended_panel.csv",
+      "grid_year_rows": 8604,
+      "annual_rows": {
+        "2017": 956,
+        "2018": 956,
+        "2019": 956,
+        "2020": 956,
+        "2021": 956,
+        "2022": 956,
+        "2023": 956,
+        "2024": 956,
+        "2025": 956
+      },
+      "source_y_unit": "percentage_points",
+      "display_unit": "expansion_intensity_fraction"
+    }
+  ],
+  "min_display_value": 0.0004915605046815827,
+  "max_display_value": 0.009725786010024435
+}

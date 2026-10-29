@@ -1,0 +1,10 @@
+feature,max_abs_cliffs_delta,significant_pairs,ring_model_warranted
+distance_to_railway,0.35848814364111314,19,True
+elevation,0.33788326990686524,20,True
+habitat_quality,0.8002750859182559,21,True
+hospital_kde,0.5342073225386647,21,True
+lag_nei,0.5803968237759556,21,True
+ndvi_mean,0.29694596514818716,17,True
+nighttime_light,0.817208627835033,21,True
+precipitation_total,0.22578624139257353,19,True
+school_kde,0.623486857258263,18,True

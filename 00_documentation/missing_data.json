@@ -1,0 +1,16 @@
+{
+  "generated_at": "2026-10-23T10:22:12.685242+00:00",
+  "items": [
+    {
+      "id": "typical_areas",
+      "name": "典型区域位置",
+      "category": "planning",
+      "description": "研究已有的典型区域点/面矢量",
+      "reason": "当前目录未找到可确认含义的典型区域 GeoJSON/Shapefile；不创建虚假空间数据。",
+      "source_candidates": [
+        "analysis/wuhan_multiscale_fixed/成果_政策价值重写_20261018"
+      ],
+      "status": "missing"
+    }
+  ]
+}

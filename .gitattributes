@@ -1,0 +1,2 @@
+# Preserve source bytes so FILE_MANIFEST_SHA256.csv remains reproducible across platforms.
+* -text

@@ -1,0 +1,39 @@
+{
+  "generated_at": "2026-10-23T10:22:12.685242+00:00",
+  "fields": {
+    "webgis_common": {
+      "crs": "EPSG:4326",
+      "time_start/time_end": "时间标签或时间区间；沿用源成果，不推算新年份。",
+      "source": "原始研究成果的相对路径；只做可追溯整理。",
+      "status": "ready=可直接加载；needs_review=已有文件但口径/版本需人工确认；missing=当前目录无可靠来源。"
+    },
+    "impervious": {
+      "value": "原始不透水面分类值；按源栅格保留。",
+      "nodata": "沿用源栅格 NoData。",
+      "scope": "年度栅格目前仅发现武昌测试区。"
+    },
+    "intensity": {
+      "intensity": "源成果中的扩张强度字段；未重新计算。",
+      "scale_m": "目标网格分析尺度，米。"
+    },
+    "expansion_patterns": {
+      "class": "填充型/边缘型/飞地型。",
+      "lei": "源成果 LEI 字段。",
+      "ci": "源成果 CI 字段。"
+    },
+    "hotspots": {
+      "gi_z": "源成果 Getis-Ord Gi* z-score。",
+      "hotspot_class": "源成果类别编码。",
+      "hotspot_label": "源成果类别标签。"
+    },
+    "centroids": {
+      "centre_x/centre_y": "EPSG:32650 下源成果重心坐标。",
+      "generated_for_visualization": "轨迹线是否仅按已有点序连接。"
+    },
+    "drivers": {
+      "q": "fuzzy GD q 值。",
+      "interaction_q": "交互探测 q 值。",
+      "SHAP": "模型预测归因；保留源成果的贡献字段及单位。"
+    }
+  }
+}
